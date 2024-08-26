@@ -10,10 +10,10 @@ public class Program4 {
         int c = 369;
         int d = 562;
 
-        // Sum the numbers and store in a fifth variable
+        
         int sum = a + b + c + d;
 
-        // Compute the average and store in a sixth variable
+        
         double average = sum / 4.0;
 
         // Output the results
@@ -26,4 +26,4 @@ public class Program4 {
 
 
 
-*/
+
