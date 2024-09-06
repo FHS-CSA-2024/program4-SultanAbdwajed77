@@ -10,6 +10,9 @@ public class Program4 {
         int c = 369;
         int d = 562;
 
+
+
+        //Actually get user input here
         
         int sum = a + b + c + d;
 
