@@ -11,9 +11,24 @@ public class Program4 {
         int d = 562;
 
         
+        Scanner intScanner = new Scanner(System.in);
+
+        //User Input
+        System.out.println("Enter the first 3 digit number: ");
+        int a = intScanner.nextInt();
+
+        System.out.println("Enter the second 3 digit number: ");
+        int b = intScanner.nextInt();
+
+        System.out.println("Enter the third 3 digit number: ");
+        int c = intScanner.nextInt();
+
+        System.out.println("Enter the fourth 3 digit number: ");
+        int d = intScanner.nextInt();
+        
+        
         int sum = a + b + c + d;
 
-        
         double average = sum / 4.0;
 
         // Output the results
